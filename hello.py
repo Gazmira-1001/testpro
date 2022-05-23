@@ -1,2 +1,2 @@
 print("hello git")
-print("this is our fist lab activity on AI in Enterprise"
+print("this is our first lab activity on AI in Enterprise")
